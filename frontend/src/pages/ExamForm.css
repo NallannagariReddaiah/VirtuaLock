@@ -1,0 +1,45 @@
+/* ExamForm.css */
+.exam-form-card {
+    width: 50rem;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+  }
+  
+  .form-icon {
+    margin-right: 10px;
+    color: #007bff;
+  }
+  
+  .form-control-lg {
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    padding: 15px;
+    font-size: 16px;
+  }
+  
+  .form-control-lg:focus {
+    border-color: #80bdff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  .form-check-input {
+    margin-right: 10px;
+  }
+  
+  .btn-lg {
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+  }
+  
+  h2 {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  h5 {
+    color: #007bff;
+    font-weight: bold;
+  }
